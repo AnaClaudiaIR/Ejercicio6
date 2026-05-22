@@ -1,0 +1,1 @@
+Botones colocados en las 5 posiciones del BorderPane en JavaFX.
